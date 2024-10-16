@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\gughade\source\repos\Subhash-build</_PublishTargetUrl>
+    <History>True|2024-10-14T13:48:18.5541854Z||;True|2024-10-14T09:12:13.4046406-04:00||;True|2024-10-14T06:07:32.3974613-04:00||;True|2024-10-14T06:05:43.1275270-04:00||;True|2024-10-03T09:09:57.0212211-04:00||;True|2024-10-03T06:36:57.6348754-04:00||;True|2024-10-03T04:30:34.8967366-04:00||;True|2024-10-03T04:30:26.3359011-04:00||;True|2024-10-01T07:45:56.0864087-04:00||;True|2024-10-01T07:13:03.4817620-04:00||;True|2024-09-30T09:09:37.4448854-04:00||;True|2024-09-30T09:09:29.0439585-04:00||;True|2024-09-30T06:22:28.6936611-04:00||;True|2024-09-30T06:21:53.5695050-04:00||;True|2024-09-30T04:53:19.3752945-04:00||;True|2024-09-27T06:55:42.8876649-04:00||;True|2024-09-27T03:51:20.5423449-04:00||;True|2024-09-26T07:41:37.5849145-04:00||;True|2024-09-25T11:11:12.7257474-04:00||;True|2024-09-25T10:13:51.7718790-04:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DbConnection">
+      <Value>account=vzicosu-bilh%3buser=svc_system_goal%3b password =xM63zNU7C#RtyE!P%3b ROLE = OA_DATAHUB_SYSTEM_GOALS_SYSTEM_GOALS_WRITE%3b db =DATAHUB_SYSTEM_GOALS%3b schema =SYSTEM_GOALS</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

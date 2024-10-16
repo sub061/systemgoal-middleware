@@ -1,0 +1,104 @@
+[
+  {
+    "ContainingType": "DataHub_System_Goal.Controllers.DataHubController",
+    "Method": "GetHospital",
+    "RelativePath": "api/hospitals",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DataHub_System_Goal.Controllers.DataHubController",
+    "Method": "GetKPI",
+    "RelativePath": "api/kpis",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DataHub_System_Goal.Controllers.DataHubController",
+    "Method": "GetSummaryForForm",
+    "RelativePath": "api/kpisummary",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DataHub_System_Goal.Controllers.DataHubController",
+    "Method": "GetModel",
+    "RelativePath": "api/operatingmodel",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DataHub_System_Goal.Controllers.DataHubController",
+    "Method": "GetPDF",
+    "RelativePath": "api/pdf",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pdfRequest",
+        "Type": "Datahub_System_Goal.PdfRequestVM",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DataHub_System_Goal.Controllers.DataHubController",
+    "Method": "GetPillar",
+    "RelativePath": "api/pillers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DataHub_System_Goal.Controllers.DataHubController",
+    "Method": "GetSubGoals",
+    "RelativePath": "api/subgoals",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DataHub_System_Goal.Controllers.DataHubController",
+    "Method": "GetSummary",
+    "RelativePath": "api/summary",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DataHub_System_Goal.Controllers.DataHubController",
+    "Method": "PutSummary",
+    "RelativePath": "api/summary",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "_Summary",
+        "Type": "System.Collections.Generic.List\u00601[[DataHub_System_Goal.Models.Ref_Summary, Datahub-System-Goal, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

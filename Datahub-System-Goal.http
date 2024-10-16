@@ -1,0 +1,6 @@
+@Datahub_System_Goal_HostAddress = http://localhost:5243
+
+GET {{Datahub_System_Goal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
